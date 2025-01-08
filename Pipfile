@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 fastapi = {extras = ["all"], version = "*"}
+numpy = "*"
+opencv-python = "*"
+boto3 = "*"
 
 [dev-packages]
 
