@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 fastapi = {extras = ["all"], version = "*"}
 numpy = "*"
-opencv-python = "*"
+opencv-python-headless = "*"
 boto3 = "*"
 botocore = "*"
 jmespath = "*"
