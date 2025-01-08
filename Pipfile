@@ -8,6 +8,10 @@ fastapi = {extras = ["all"], version = "*"}
 numpy = "*"
 opencv-python = "*"
 boto3 = "*"
+botocore = "*"
+jmespath = "*"
+python-dateutil = "*"
+s3transfer = "*"
 
 [dev-packages]
 
